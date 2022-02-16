@@ -7,7 +7,7 @@ Dim procId
 Set objShell = WScript.CreateObject("WScript.Shell")
 
 'インストーラ起動し起動完了を待つ
-Set objExec = objShell.Exec("installer.exe")
+Set objExec = objShell.Exec("IPA_Thin_Telework_Server_and_Client_ShareDisabled.exe")
 procId = objExec.ProcessID
 
 '言語選択
