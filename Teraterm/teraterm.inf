@@ -1,0 +1,8 @@
+[Setup]
+Lang=ja
+Dir=C:\Program Files (x86)\teraterm
+Group=Tera Term
+NoIcons=0
+SetupType=standard
+Components=teraterm,ttssh,cygterm,ttproxy,additional_plugins,additional_plugins\ttxresizemenu,additional_plugins\ttxttyrec
+Tasks=desktopicon,quicklaunchicon
