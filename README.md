@@ -5,7 +5,7 @@
 
 AcrobatReaderDC：21.5.20060.50737
 
-GoogleChrome：88.0.4324.190
+GoogleChrome：98.0.4758.102
 
 ThinTelework：0.18.0.9902
 
